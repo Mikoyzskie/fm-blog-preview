@@ -15,7 +15,7 @@ export default function Home() {
         <span className='bg-[#f4d04e] py-[9px] px-3 font-bold text-sm rounded-md badge'>Learning</span>
       </p>
       <p>Published 21 Dec 2023</p>
-      <h1 className='text-2xl font-bold my-5'>HTML & CSS foundations</h1>
+      <h1 className='text-2xl font-bold my-5 hover:text-[#f4d04e] hover:cursor-pointer'>HTML & CSS foundations</h1>
       <p className='max-w-[336px] text-gray-500 mb-6'>
         These languages are the backbone of every website, defining structure, content, and presentation.
       </p>
