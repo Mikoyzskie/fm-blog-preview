@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Mikoyzskie/fm-blog-preview)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://fm-blog-preview.vercel.app/)
 
 ## My process
 
